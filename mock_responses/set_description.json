@@ -1,0 +1,34 @@
+{
+    "projects": [{
+        "id": "1",
+        "name": "English B1",
+        "description": "English B1 words"
+      },
+      {
+        "id": "2",
+        "name": "Закарпатські діалекти",
+        "description": "Збагачуйте свою українську!"
+      },
+      {
+        "id": "3",
+        "name": "Фізика ЗНО",
+        "description": "Основні формули ЗНО з фізики."
+      },
+      {
+        "id": "4",
+        "name": "Математика ЗНО",
+        "description": "Основні формули ЗНО з математики."
+      },
+      {
+        "id": "5",
+        "name": "English C2",
+        "description": "English C2 common words"
+      },
+      {
+        "id": "6",
+        "name": "Deutch A1",
+        "description": "Німецька мова, базові слова"
+      }
+    ]
+  }
+  
